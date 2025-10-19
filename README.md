@@ -125,4 +125,4 @@ Contributions welcome! Please see CONTRIBUTING.md
 ## Support
 
 - GitHub Issues: https://github.com/furcateresearch/furcate-bridge/issues
-- Email: support@furcate.io
+- Email: contact@furcate.io
