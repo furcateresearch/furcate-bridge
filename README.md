@@ -114,10 +114,6 @@ class CustomAdapter(BaseAdapter):
 pytest tests/
 ```
 
-## Documentation
-
-Full documentation: https://docs.furcate.io/integration/
-
 ## License
 
 MIT License - see LICENSE file
@@ -129,5 +125,4 @@ Contributions welcome! Please see CONTRIBUTING.md
 ## Support
 
 - GitHub Issues: https://github.com/furcateresearch/furcate-bridge/issues
-- Documentation: https://docs.furcate.io
 - Email: support@furcate.io
